@@ -1,6 +1,6 @@
 {
   "name": "@jtwebb/eslint-plugin",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
     "node": "14.x || >= 16"
   },
   "devDependencies": {
+    "@jtwebb/eslint-plugin": "^1.0.0",
     "@types/eslint": "^7.28.2",
     "eslint": "^8.2.0",
     "eslint-plugin-eslint-plugin": "^4.0.2",

@@ -1,5 +1,6 @@
 const allRules = {
-  'jsx-uses-vars': require('./lib/rules/jsx-uses-vars')
+  'jsx-uses-vars': require('./lib/rules/jsx-uses-vars'),
+  'jsx-uses-react': require('./lib/rules/jsx-uses-react')
 };
 
 module.exports = {
